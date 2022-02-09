@@ -1,4 +1,4 @@
-# Project Name
+# Advanced Regression test of Aus Properties Saleprice
 Purpose was to identify the impactful predictors for the sale price by an American company looking to invest into undervalued properties of Australia and trying to identify them.
 
 
