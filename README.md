@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+Purpose was to identify the impactful predictors for the sale price by an American company looking to invest into undervalued properties of Australia and trying to identify them.
 
 
 ## Table of Contents
@@ -11,38 +11,27 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The train data was given which we can split as per the norms in order to carry out the analysis.
+- Data needs to be explored, cleaned, scaled and then if required transformed.
+- Dataset contains all kinds of business driven predictors: numerical, categorical and yearly data which can be used as it is or can be derived from.
+- Dataset belongs to the Australian market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Conclusions after working with standardisation through ridge, lasso and attempting linear regression with RFE.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+### Some of the factors which symbolises good property or drives the SalePrice:
+Overall material and finish of the house comes to be best rated: 10.
+Roof made with wood shingles.
+Neighborhood is Northridge.
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+### Some factors which pulls the price down:
+Pool quality is just good and infact if there is no pool, it gets the price down.
+Proximity to various conditions: Near positive off-site feature--park, greenbelt, etc.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SasukeSa] - feel free to contact me!
 
 
 <!-- Optional -->
